@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SegundaClase.Libreria\SegundaClase.Libreria.csproj">
+      <Project>{0a7201a1-2f19-456c-a504-9a6bba5d4a5a}</Project>
+      <Name>SegundaClase.Libreria</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

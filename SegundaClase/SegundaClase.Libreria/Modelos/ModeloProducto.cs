@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SegundaClase.Libreria.Entidades
+namespace SegundaClase.Libreria.Modelos
 {
-    class Producto
+    class ModeloProducto
     {
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\renar\Desktop\CAI\SegundaClase\CAI_877071_SegundaClase\SegundaClase\SegundaClase.Consola\bin\Debug\SegundaClase.Consola.exe.config
+C:\Users\renar\Desktop\CAI\SegundaClase\CAI_877071_SegundaClase\SegundaClase\SegundaClase.Consola\bin\Debug\SegundaClase.Consola.exe
+C:\Users\renar\Desktop\CAI\SegundaClase\CAI_877071_SegundaClase\SegundaClase\SegundaClase.Consola\bin\Debug\SegundaClase.Consola.pdb
+C:\Users\renar\Desktop\CAI\SegundaClase\CAI_877071_SegundaClase\SegundaClase\SegundaClase.Consola\bin\Debug\SegundaClase.Libreria.dll
+C:\Users\renar\Desktop\CAI\SegundaClase\CAI_877071_SegundaClase\SegundaClase\SegundaClase.Consola\bin\Debug\SegundaClase.Libreria.pdb
+C:\Users\renar\Desktop\CAI\SegundaClase\CAI_877071_SegundaClase\SegundaClase\SegundaClase.Consola\obj\Debug\SegundaClase.Consola.csprojAssemblyReference.cache
+C:\Users\renar\Desktop\CAI\SegundaClase\CAI_877071_SegundaClase\SegundaClase\SegundaClase.Consola\obj\Debug\SegundaClase.Consola.csproj.CoreCompileInputs.cache
+C:\Users\renar\Desktop\CAI\SegundaClase\CAI_877071_SegundaClase\SegundaClase\SegundaClase.Consola\obj\Debug\SegundaClase.Consola.csproj.CopyComplete
+C:\Users\renar\Desktop\CAI\SegundaClase\CAI_877071_SegundaClase\SegundaClase\SegundaClase.Consola\obj\Debug\SegundaClase.Consola.exe
+C:\Users\renar\Desktop\CAI\SegundaClase\CAI_877071_SegundaClase\SegundaClase\SegundaClase.Consola\obj\Debug\SegundaClase.Consola.pdb
